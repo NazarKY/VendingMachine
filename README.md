@@ -1,4 +1,5 @@
 #### To start app run: `make`
+#### To run tests: `make test`
 
 ## VendingMachine
 
